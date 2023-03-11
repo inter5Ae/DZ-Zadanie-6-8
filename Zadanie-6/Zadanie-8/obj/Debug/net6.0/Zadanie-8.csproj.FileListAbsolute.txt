@@ -1,0 +1,15 @@
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\bin\Debug\net6.0\Zadanie-8.exe
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\bin\Debug\net6.0\Zadanie-8.deps.json
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\bin\Debug\net6.0\Zadanie-8.runtimeconfig.json
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\bin\Debug\net6.0\Zadanie-8.dll
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\bin\Debug\net6.0\Zadanie-8.pdb
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.csproj.AssemblyReference.cache
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.AssemblyInfoInputs.cache
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.AssemblyInfo.cs
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.csproj.CoreCompileInputs.cache
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.dll
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\refint\Zadanie-8.dll
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.pdb
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\Zadanie-8.genruntimeconfig.cache
+C:\Users\manar\Desktop\Git\Almaty DZ\DZ-Zadanie-6-8\Zadanie-6\Zadanie-8\obj\Debug\net6.0\ref\Zadanie-8.dll
